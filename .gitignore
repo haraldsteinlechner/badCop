@@ -1,0 +1,9 @@
+/.vs/ConsoleApplication1/v15/.suo
+/.vs/ConsoleApplication1/v15/Server/sqlite3/db.lock
+/.vs/ConsoleApplication1/v15/Server/sqlite3/storage.ide
+/.vs/ConsoleApplication1/v15/Server/sqlite3/storage.ide-shm
+/.vs/ConsoleApplication1/v15/Server/sqlite3/storage.ide-wal
+**/obj/**
+**/bin/**
+packages
+**/.vs/**
